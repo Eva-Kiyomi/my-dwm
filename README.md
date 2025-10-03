@@ -1,20 +1,20 @@
 # Dependencies
 
-## Fonts
-    - JetBrains Mono Nerd Font
+### Fonts
+- JetBrains Mono Nerd Font
 
-## Build Tools
-    - make
-    - libx11-dev
-    - libxft-dev
-    - libxinerama-dev
-    - libxext-dev
+### Build Tools
+- make
+- libx11-dev
+- libxft-dev
+- libxinerama-dev
+- libxext-dev
     
-## Audio (if you will use if)
-    - pulseaudio
+### Audio (if you will use if)
+- pulseaudio
 
-## Brightness control
-    - brightnessctl
+### Brightness control
+- brightnessctl
     
 # Installation
 ```
