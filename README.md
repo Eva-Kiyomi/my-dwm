@@ -1,8 +1,8 @@
 ![Preview](screenshots/preview.png)
 # Related
-For a simple status bar, you can also install dwmstatus configured by me:
+✨ For a simple status bar, you can also install dwmstatus configured by me ✨
 
-[![dwmstatus](https://img.shields.io/badge/dwmstatus-repo-blue)](https://github.com/Eva-Kiyomi/dwmstatus)
+✨ [![dwmstatus](https://img.shields.io/badge/dwmstatus-repo-blue)](https://github.com/Eva-Kiyomi/dwmstatus) ✨
 # Dependencies
 ### Screenshots
 As you may notice (or maybe not lol), I use my own script for screenshots, where I call whatever I need.  
