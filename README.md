@@ -1,11 +1,15 @@
 # Installation
-    ```sudo make clean install```
+    sudo make clean install
 # Run
-    ```exec dwm```
+    exec dwm
 # Configuring
-    Actual config is - "config.h".
+Actual config is:  
+
+    "config.h"
 # Create Desktop Entry
-    path: ```/usr/share/xsessions/dwm.desktop```
+Entry path: 
+    ```/usr/share/xsessions/dwm.desktop```
+Entry content:
 ```
     [Desktop Entry]
     Encoding=UTF-8
