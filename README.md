@@ -1,22 +1,21 @@
 # Installation
-    sudo make clean install
+```sudo make clean install```
 # Run
-    exec dwm
+```exec dwm```
 # Configuring
 Actual config is:  
-
-    "config.h"
+```config.h```
 # Create Desktop Entry
 Entry path: 
-    ```/usr/share/xsessions/dwm.desktop```
+```/usr/share/xsessions/dwm.desktop```
 Entry content:
 ```
-    [Desktop Entry]
-    Encoding=UTF-8
-    Name=dwm
-    Comment=Dynamic window manager
-    Exec=dwm
-    Icon=dwm
-    Type=XSession
+[Desktop Entry]
+Encoding=UTF-8
+Name=dwm
+Comment=Dynamic window manager
+Exec=dwm
+Icon=dwm
+Type=XSession
 ```
 
