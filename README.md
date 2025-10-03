@@ -33,13 +33,13 @@ You can do the same — just replace the script path with your own.
 ```
 sudo make clean install
 ```
-# Run
 
+# Starting
 ```
 exec dwm
 ```
-# Configuring
 
+# Configuring
 Actual config is:  
 ```config.h```
 
