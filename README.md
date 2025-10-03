@@ -1,3 +1,4 @@
+![Preview](screenshots/preview.png)
 # Dependencies
 
 ### Fonts
