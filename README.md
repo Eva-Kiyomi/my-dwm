@@ -1,5 +1,13 @@
 ![Preview](screenshots/preview.png)
 # Dependencies
+### Screenshots
+As you may notice (or maybe not lol), I use my own script for screenshots, where I call whatever I need.  
+This line is located in the **key bindings** section and looks like this:
+```c
+    /* Screenshots */
+    { 0, XK_Print, spawn, SHCMD("~/configurations/scripts/make-screenshot.sh") }
+```
+You can do the same — just replace the script path with your own.
 
 ### Fonts
 - JetBrains Mono Nerd Font
