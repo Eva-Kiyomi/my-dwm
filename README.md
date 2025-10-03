@@ -1,13 +1,41 @@
+# Dependencies
+
+## Fonts
+    - JetBrains Mono Nerd Font
+
+## Build Tools
+    - make
+    - libx11-dev
+    - libxft-dev
+    - libxinerama-dev
+    - libxext-dev
+    
+## Audio (if you will use if)
+    - pulseaudio
+
+## Brightness control
+    - brightnessctl
+    
 # Installation
-```sudo make clean install```
+```
+sudo make clean install
+```
 # Run
-```exec dwm```
+
+```
+exec dwm
+```
 # Configuring
+
 Actual config is:  
 ```config.h```
+
 # Create Desktop Entry
+
 Entry path: 
-```/usr/share/xsessions/dwm.desktop```
+```
+/usr/share/xsessions/dwm.desktop
+```
 Entry content:
 ```
 [Desktop Entry]
